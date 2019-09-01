@@ -1,0 +1,5 @@
+CRED = '\033[91m'
+CEND = '\033[0m'
+CGREYBG    = '\33[100m'
+print(CGREYBG + "Error, does not compute!" + CEND)
+
