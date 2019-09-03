@@ -1,2 +1,2 @@
 # swisscode-cli
-Client for the swisscode competitive programming 
+Client for the swisscode competitive programming framework.
